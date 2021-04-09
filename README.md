@@ -76,18 +76,9 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=toutpuissantged&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/toutpuissantged/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toutpuissantged&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/toutpuissantged/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toutpuissantged&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
-</a>
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=toutpuissantged&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
 
 
