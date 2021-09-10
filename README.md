@@ -35,15 +35,13 @@
 
 <p id="socialIcons" align="center">
     <a href="mailto:amoussougedeon13@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/manigandan.jeff-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <img alt="Gmail" src="https://img.shields.io/badge/amoussougedeon13-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/gedeon-amoussou-419775202/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
+        <img src="https://img.shields.io/badge/-gedeon-amoussou-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://stackoverflow.com/users/13975685/45-le-boss" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-manigandand-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
-    <a href="https://medium.com/@manigandand" alt="Medium">
-        <img src="https://img.shields.io/badge/-@manigandand-03a57a?style=flat-square&logo=Medium&labelColor=000000" /></a>
+        <img src="https://img.shields.io/badge/-45-le-boss-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
     <a href="https://twitter.com/toutpuissantged" alt="Twitter">
-        <img src="https://img.shields.io/badge/-manigandanjeff-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+        <img src="https://img.shields.io/badge/-toutpuissantged-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
     <a href="https://www.instagram.com/toutpuissant13/" alt="Instagram">
-        <img src="https://img.shields.io/badge/-manigandanjeff-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-toutpuissant13-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
