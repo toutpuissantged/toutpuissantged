@@ -7,7 +7,6 @@
 
 ### 🛠 I code using
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
@@ -17,11 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
-![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat&logo=grpc)
-![NATS](./asset/nats.svg)
-![NSQ](./asset/nsq.svg)
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
+
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
@@ -39,20 +34,16 @@
 ## Reach Me
 
 <p id="socialIcons" align="center">
-    <a href="mailto:manigandan.jeff@gmail.com">
+    <a href="mailto:amoussougedeon13@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/manigandan.jeff-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/manigandand" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/gedeon-amoussou-419775202/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="https://stackoverflow.com/users/4201748/manigandand" alt="StackOverflow">
+    <a href="https://stackoverflow.com/users/13975685/45-le-boss" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-manigandand-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
-    <a href="https://hub.docker.com/u/manigandanjeff" alt="Dockor">
-        <img src="https://img.shields.io/badge/-manigandanjeff-2496ed?style=flat-square&logo=docker&logoColor=white" /></a>
     <a href="https://medium.com/@manigandand" alt="Medium">
         <img src="https://img.shields.io/badge/-@manigandand-03a57a?style=flat-square&logo=Medium&labelColor=000000" /></a>
-    <a href="https://twitter.com/manigandanjeff" alt="Twitter">
+    <a href="https://twitter.com/toutpuissantged" alt="Twitter">
         <img src="https://img.shields.io/badge/-manigandanjeff-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
-    <a href="https://instagram.com/manigandanjeff" alt="Instagram">
+    <a href="https://www.instagram.com/toutpuissant13/" alt="Instagram">
         <img src="https://img.shields.io/badge/-manigandanjeff-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://manigandand.com" alt="website">
-        <img src="https://img.shields.io/badge/-manigandand.com-242424?style=flat-square&logo=circle&logoColor=white" /></a>
 </p>
