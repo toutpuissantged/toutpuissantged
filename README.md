@@ -1,6 +1,6 @@
 # hussainweb
 
-<img src="images/me.jpg" align="right" />
+<img src="https://drive.google.com/file/d/18oTHP2rASYW_v534W_yNHb6VtA20oJ-U/view?usp=sharing" align="right" />
 
 I'm Hussain Abbas and I go by `hussainweb` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
 
