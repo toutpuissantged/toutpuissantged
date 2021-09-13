@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Hello ! I am a coding lover developer.
-- 🐱‍💻 my two pedilection languages ​​are python and javascript
+- 🐱‍💻 my two predilection languages ​​are python and javascript
 - my usual web frameworks are react in frontend and express in backend
 - 🌱 I also have the knack of creating useful penetration testing tools for cybersecurity
 
