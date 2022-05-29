@@ -73,4 +73,4 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=toutpuissantged&theme=nord&column=7)](https://github.com/toutpuissantged/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=toutpuissantged&no-bg=true)
