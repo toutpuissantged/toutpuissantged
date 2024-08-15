@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Gédéon Amoussou 👋</h1>
+<h1 align="center">Hi there, I'm Gédéon Amoussou , i'm mobile app developer 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gedeon-amoussou/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/gedeon13/">LinkedIn</a> •
   <a href="https://twitter.com/GedeonAmoussou">Twitter</a> •
-  <a href="mailto:gedeon@example.com">Email</a>
+  <a href="mailto:amoussougedeon13@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🌍 Based in **Lomé, Togo**
 - 👨‍💻 Full-Stack Developer specializing in **React** and **React Native**
-- 💼 Current Projects: [Okyddok](https://github.com/okyddok) (Comprehensive Business Management Solution)
+- 💼 Current Projects: [Ondulo]([https://github.com/okyddok](https://ondulo.netlify.app/)) (Comprehensive Business Management Solution)
 - 🧠 Always learning new things, currently diving into **AI and Machine Learning**
 - 📝 Writer and tech speaker, sharing knowledge with the community
 
