@@ -1,76 +1,63 @@
-# Hello there 👋
+<h1 align="center">Hi there, I'm Gédéon Amoussou 👋</h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=toutpuissantged.toutpuissantged)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gedeon-amoussou/">LinkedIn</a> •
+  <a href="https://twitter.com/GedeonAmoussou">Twitter</a> •
+  <a href="mailto:gedeon@example.com">Email</a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toutpuissantged&show_icons=true&theme=radical" alt="Gédéon's GitHub stats" />
+</p>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+---
 
+### 🚀 About Me
 
-class SoftwareEngineer:
-    def __init__(self):
-        self.name ="toutpuissantged"
-        self.role = "Web developer and DataEngineer"
-        self.location = "34.0522\xc2\xb0 N, 118.2437\xc2\xb0 W"
-        self.blog = "http://toutpuissantged.000webhostapp.com/view/Portfolio"
-        self.knowledge_base = [
-            "Web application",
-            "Mobile Apps",
-            "Desktop Apps",
-            "Data Mining",
-        ]
-        self.knowledge_base.insert(0, "Fullstack Engineering")
+- 🌍 Based in **Lomé, Togo**
+- 👨‍💻 Full-Stack Developer specializing in **React** and **React Native**
+- 💼 Current Projects: [Okyddok](https://github.com/okyddok) (Comprehensive Business Management Solution)
+- 🧠 Always learning new things, currently diving into **AI and Machine Learning**
+- 📝 Writer and tech speaker, sharing knowledge with the community
 
-    def say_hi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
+### 🛠️ Technologies & Tools
 
-This is {name}, I live in {location}. I work as a {role} and recently I am focusing on {focus} for my personal growth.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+</p>
 
-I have wide interests, but most of them are {knowledge_base}.
+### 💼 Experience
 
-I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}""".format(
-                name=self.name,
-                location=self.location,
-                role=self.role,
-                focus=self.knowledge_base[0],
-                knowledge_base=", ".join(self.knowledge_base[1:]),
-                blog=self.blog,
-            )
-        )
+- **2023-Present:** Developer at OKYDOOK, working on a complete task management software.
+- **2021-Present:** Freelance Mobile Developer, developed various mobile applications including e-commerce and taxi-moto apps.
+- **2020-2021:** Full-Stack Developer at DCN Technologies, developed and deployed a clinical management web application.
 
+### 📈 GitHub Stats
 
-me = SoftwareEngineer()
-me.say_hi()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toutpuissantged&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-```
+---
 
-## 🔧 Technologies & Tools
+### 🎓 Certifications
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+- **Meta Front-End Developer** [Certification from Coursera](#)
+- **IBM AI Certification** [Certification from IBM](#)
 
+### 💬 Let's Connect
 
-## &#x1f4c8; GitHub Stats
+I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-<a href="https://github.com/toutpuissantged/toutpuissantged">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toutpuissantged&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
-</a>
+---
 
-<a href="https://github.com/toutpuissantged/toutpuissantged">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toutpuissantged&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
-</a>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=toutpuissantged&no-bg=true)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=toutpuissantged" alt="visitors" />
+</p>
