@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <span style="color:#FF5733;">Gédéon Amoussou</span> 👋</h1>
-<h3 align="center">I'm a passionate Mobile App Developer</h3>
+<h1 align="center">Salut, je suis <span style="color:#FF5733;">Gédéon Amoussou</span> 👋</h1>
+<h3 align="center">Tech Lead · Full-Stack Developer · Founder of TPG Technologies</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gedeon13/">
@@ -21,11 +21,16 @@
 
 ### 🚀 About Me
 
-- 🌍 Based in **Lomé, Togo**
-- 👨‍💻 Full-Stack Developer specializing in **React** and **React Native**
-- 💼 Current Project: [Ondulo](https://ondulo.netlify.app/) (Comprehensive Business Management Solution)
-- 🧠 Always learning new things, currently diving into **AI and Machine Learning**
-- 📝 Writer and tech speaker, sharing knowledge with the community
+- 🌍 Based in **Lomé, Togo** — building for West Africa and beyond
+- 🏢 **Founder & CEO** of [TPG Technologies](https://tpg-technologies.com) — web & mobile development agency
+- 🧑‍💼 **Tech Lead** at NUMERUM, managing a team of 8 engineers across all project layers
+- 📱 Expert in **React Native** and cross-platform mobile development (Meta Certified)
+- 🤖 Building AI-powered products — [Mailstride](https://mailstride.com), [MyPocket](https://mypocket.app), Justok, and more
+- 🎓 **Professor & Coach** at Lomé Digital School — trained 50+ software engineering graduates
+- ✍️ Tech content creator: **10K+ followers** on LinkedIn · **2500+ newsletter subscribers** (Vie de dev)
+- 🏆 Ranked **2nd most influential person in mobile tech in Togo** (LinkedIn / Favicon)
+
+---
 
 ### 🛠️ Technologies & Tools
 
@@ -34,37 +39,74 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="Expo" />
 </p>
+
+---
 
 ### 💼 Experience
 
-- **2023-Present:** Developer at OKYDOOK, working on a complete task management software.
-- **2021-Present:** Freelance Mobile Developer, developed various mobile applications including e-commerce and taxi-moto apps.
-- **2020-2021:** Full-Stack Developer at DCN Technologies, developed and deployed a clinical management web application.
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 – Present | **Founder & CEO** | TPG Technologies |
+| 2024 – Present | **Tech Lead** | NUMERUM |
+| 2025 | **Professor & Coach** | Lomé Digital School |
+| 2023 – 2024 | **Senior React Developer** | OKYDOOK |
+| 2022 – 2023 | **Software Developer** | KillinGiants |
+| 2021 – Present | **Freelance Web & Mobile Developer** | Independent |
+| 2020 – 2021 | **Full-Stack Developer** | DCN Technologies |
 
-### 📈 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toutpuissantged&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+### 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Mailstride**](https://mailstride.com) | AI-powered email prospecting tool — write, schedule & automate cold outreach |
+| [**MyPocket**](https://mypocket.app) | Mobile financial management powered by KoffiIA |
+| **Justok** | AI-driven stock management with sales forecasting |
+| **Tabl.africa** | Restaurant menu management & QR code ordering platform |
+| **Giga Plus** | Platform to earn money watching video ads |
+| **Sainte Bible** | Top-rated Bible reading & study mobile app on the Play Store |
 
 ---
 
 ### 🎓 Certifications
 
-- **Meta Front-End Developer** [Certification from Coursera](#)
-- **IBM AI Certification** [Certification from IBM](#)
+- 🏅 **Meta Front-End Developer** — Meta / Coursera
+- 🏅 **Meta React Native Developer** — Meta / Coursera
+- 🏅 **Key Technologies for Business** — IBM
+- 🏅 **Fundamentals of Project Management**
+- 🏅 **JavaScript Certification**
+- 🏅 **Principles of UX/UI Design**
+- 📜 **20+ professional certifications** total
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toutpuissantged&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 ### 💬 Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+I'm always open to collaboration, freelance missions, and impactful projects — especially across **West Africa** and with **international clients**.
+
+📩 **amoussougedeon13@gmail.com** · 🌍 **Lomé, Togo** · 📞 **+228 96 87 03 60**
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=toutpuissantged" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=toutpuissantged&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
